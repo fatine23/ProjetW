@@ -1,0 +1,19 @@
+.Question {
+    background-color: #8a8282;
+    border: 1px solid #816666;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .Question h3 {
+    margin-top: 3px;
+  }
+  
+  .Question label {
+    margin-left: 10px;
+  }
+  
+  .Question input[type="radio"] {
+    margin-right: 5px;
+  }
+  
